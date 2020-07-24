@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello on Jalingo</title>
-    <link>http://jalingo-berlin.github.io/</link>
+    <link>http://www.jalingo.de/</link>
     <description>Recent content in Hello on Jalingo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 12:00:50 +0200</lastBuildDate>
     
-	<atom:link href="http://jalingo-berlin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jalingo.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Imprint</title>
-      <link>http://jalingo-berlin.github.io/imprint/</link>
+      <link>http://www.jalingo.de/imprint/</link>
       <pubDate>Wed, 22 Jul 2020 16:47:41 +0200</pubDate>
       
-      <guid>http://jalingo-berlin.github.io/imprint/</guid>
+      <guid>http://www.jalingo.de/imprint/</guid>
       <description>Provider: Jalingo Management UG (limited liability)
 Locarnoweg 6
 12205 Berlin
@@ -32,10 +32,10 @@ Disclaimer Content of the online offer The Jalingo Management UG as the author o
     
     <item>
       <title>Dataprotection</title>
-      <link>http://jalingo-berlin.github.io/dataprotection/</link>
+      <link>http://www.jalingo.de/dataprotection/</link>
       <pubDate>Wed, 22 Jul 2020 16:47:26 +0200</pubDate>
       
-      <guid>http://jalingo-berlin.github.io/dataprotection/</guid>
+      <guid>http://www.jalingo.de/dataprotection/</guid>
       <description>General note and mandatory information Designation of the responsible body The person responsible for data processing on this website is
 Jalingo Management UG (limited liability)
 Ingo Czok
@@ -47,20 +47,20 @@ Revocation of your consent to data processing Only with your express consent are
     
     <item>
       <title>Contact</title>
-      <link>http://jalingo-berlin.github.io/contact/</link>
+      <link>http://www.jalingo.de/contact/</link>
       <pubDate>Wed, 22 Jul 2020 16:44:00 +0200</pubDate>
       
-      <guid>http://jalingo-berlin.github.io/contact/</guid>
+      <guid>http://www.jalingo.de/contact/</guid>
       <description>Please contact us through the following form for a swift reply. Thank you.
 Your Name Email Address An email address is required.  Message   </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://jalingo-berlin.github.io/about/</link>
+      <link>http://www.jalingo.de/about/</link>
       <pubDate>Wed, 22 Jul 2020 10:13:19 +0200</pubDate>
       
-      <guid>http://jalingo-berlin.github.io/about/</guid>
+      <guid>http://www.jalingo.de/about/</guid>
       <description>Jalingo is an association of passionate individuals bringing technology to people Founded in 2017 Jalingo researches Blockchain, AI, and Mobile Technologies to identify their potential and use-cases for future software and services. Jalingo invests into companies that have a compelling business case utilizing those technologies.
 Jalingo was founded by Ingo Czok who has co-founded Tembit (now Serrala) a leader in cloud and mobile solutions for corporate payments and corporate banking portals.</description>
     </item>

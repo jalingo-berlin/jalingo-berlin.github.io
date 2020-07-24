@@ -3,119 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jalingo-berlin.github.io/de/</loc>
+    <loc>http://www.jalingo.de/de/</loc>
     <lastmod>2020-07-23T12:00:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jalingo-berlin.github.io/"
+                href="http://www.jalingo.de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://jalingo-berlin.github.io/de/"
+                href="http://www.jalingo.de/de/"
                 />
   </url>
   
   <url>
-    <loc>http://jalingo-berlin.github.io/de/imprint/</loc>
+    <loc>http://www.jalingo.de/de/imprint/</loc>
     <lastmod>2020-07-22T16:47:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jalingo-berlin.github.io/imprint/"
+                href="http://www.jalingo.de/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://jalingo-berlin.github.io/de/imprint/"
+                href="http://www.jalingo.de/de/imprint/"
                 />
   </url>
   
   <url>
-    <loc>http://jalingo-berlin.github.io/de/dataprotection/</loc>
+    <loc>http://www.jalingo.de/de/dataprotection/</loc>
     <lastmod>2020-07-22T16:47:29+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jalingo-berlin.github.io/dataprotection/"
+                href="http://www.jalingo.de/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://jalingo-berlin.github.io/de/dataprotection/"
+                href="http://www.jalingo.de/de/dataprotection/"
                 />
   </url>
   
   <url>
-    <loc>http://jalingo-berlin.github.io/de/contact/</loc>
+    <loc>http://www.jalingo.de/de/contact/</loc>
     <lastmod>2020-07-22T16:43:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jalingo-berlin.github.io/contact/"
+                href="http://www.jalingo.de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://jalingo-berlin.github.io/de/contact/"
+                href="http://www.jalingo.de/de/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://jalingo-berlin.github.io/de/about/</loc>
+    <loc>http://www.jalingo.de/de/about/</loc>
     <lastmod>2020-07-22T16:29:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jalingo-berlin.github.io/about/"
+                href="http://www.jalingo.de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://jalingo-berlin.github.io/de/about/"
+                href="http://www.jalingo.de/de/about/"
                 />
   </url>
   
   <url>
-    <loc>http://jalingo-berlin.github.io/de/categories/</loc>
+    <loc>http://www.jalingo.de/de/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jalingo-berlin.github.io/categories/"
+                href="http://www.jalingo.de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://jalingo-berlin.github.io/de/categories/"
+                href="http://www.jalingo.de/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://jalingo-berlin.github.io/de/tags/</loc>
+    <loc>http://www.jalingo.de/de/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jalingo-berlin.github.io/tags/"
+                href="http://www.jalingo.de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://jalingo-berlin.github.io/de/tags/"
+                href="http://www.jalingo.de/de/tags/"
                 />
   </url>
   
