@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://www.jalingo.de/de/</loc>
     <lastmod>2020-07-23T12:00:46+02:00</lastmod>
@@ -17,9 +16,7 @@
                 hreflang="de"
                 href="http://www.jalingo.de/de/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.jalingo.de/de/imprint/</loc>
     <lastmod>2020-07-22T16:47:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -34,9 +31,7 @@
                 hreflang="de"
                 href="http://www.jalingo.de/de/imprint/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.jalingo.de/de/dataprotection/</loc>
     <lastmod>2020-07-22T16:47:29+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -51,9 +46,7 @@
                 hreflang="de"
                 href="http://www.jalingo.de/de/dataprotection/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.jalingo.de/de/contact/</loc>
     <lastmod>2020-07-22T16:43:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -68,9 +61,7 @@
                 hreflang="de"
                 href="http://www.jalingo.de/de/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.jalingo.de/de/about/</loc>
     <lastmod>2020-07-22T16:29:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -85,9 +76,7 @@
                 hreflang="de"
                 href="http://www.jalingo.de/de/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.jalingo.de/de/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -101,9 +90,7 @@
                 hreflang="de"
                 href="http://www.jalingo.de/de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.jalingo.de/de/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -118,5 +105,4 @@
                 href="http://www.jalingo.de/de/tags/"
                 />
   </url>
-  
 </urlset>
